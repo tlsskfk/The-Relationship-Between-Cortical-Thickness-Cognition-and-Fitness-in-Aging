@@ -2,7 +2,7 @@
 
 ## Analysis of FMRI data provided by the [Human Connectome Project](https://www.humanconnectome.org/)
 
-<img src="https://www.humanconnectome.org/themes/uar_washu/assets/images/logos/ccf-logo.png" alt="Human Connectome Project Logo" width="200" />
+<img src="https://www.humanconnectome.org/themes/uar_washu/assets/images/logos/ccf-logo.png" alt="Human Connectome Project Logo" width="750" />
 
 ## Contributors
 Dr. Jeremy Purcell

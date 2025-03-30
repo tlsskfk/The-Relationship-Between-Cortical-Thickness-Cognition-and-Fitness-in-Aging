@@ -5,10 +5,10 @@
 <img src="https://www.humanconnectome.org/themes/uar_washu/assets/images/logos/ccf-logo.png" alt="Human Connectome Project Logo" width="750" />
 
 ## Contributors
-Dr. Jeremy Purcell
-Yi Wei
-Stephen Shin
-David Soussana
+- Dr. Jeremy Purcell
+- Yi Wei
+- Stephen Shin
+- David Soussana
 
 
 This repository is managed by: Stephen Shin

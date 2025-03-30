@@ -22,9 +22,6 @@ NTR_2025\
 │
 ├── data/                   # Input Data
 │
-├── docs/                   # Documentation
-│   └── instructions.md     # Instructions on how to run the entire project
-│
 ├── analysis/                             # Analysis Scripts
 │   ├── 01-main-effect/                   # Main Bayesian Analysis Script 
 │   ├── 02-mediation-main-effect/         # Mediation of Main Bayesian Analysis Script
@@ -34,4 +31,5 @@ NTR_2025\
 ├── assets/                 # Static assets (images)    
 │
 ├── .gitignore              # Git exclusion rules  
+├── instructions.md         # Documentation on how to run the scripts
 └── README.md               # This file
